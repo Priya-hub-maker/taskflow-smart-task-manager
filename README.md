@@ -43,5 +43,4 @@ python taskflow.py
 - Save tasks in a file or database
 - Create a graphical user interface (GUI)
 
-## Author
-Priya Dharshini
+
